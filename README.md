@@ -52,15 +52,16 @@ Permite adicionar produtos e simular compras com foco no aprendizado de listas, 
 
 Projeto com um toque divertido e educativo que permite:
 - Cadastrar e visualizar plantas (como briófitas, pteridófitas, gimnospermas e angiospermas).
+- Registrar ambientes com diferentes níveis de luz, temperatura e umidade.
+- Verificar se uma planta pode sobreviver em determinado ambiente.
+- Ver os cuidados ideais para cada tipo de planta.
+
+  <img src="menup.png" width="500"/>
   <img src="menu1.png" width="500"/>
   <img src="menu2.png" width="500"/>
   <img src="menu3.png" width="500"/>
   <img src="menu3op.png" width="500"/>
   
-- Registrar ambientes com diferentes níveis de luz, temperatura e umidade.
-  
-- Verificar se uma planta pode sobreviver em determinado ambiente.
-- Ver os cuidados ideais para cada tipo de planta.
 
 Excelente para treinar **POO (Programação Orientada a Objetos)** de forma prática e criativa.
 
