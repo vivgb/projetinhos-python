@@ -19,6 +19,8 @@ Esse projeto simula um sistema de cálculo de custo de ligações entre diferent
 
 <img src="plano_inicio.png" width="500"/>
 <img src="plano_menu.png" width="500"/>
+<img src="calculando_plano.png" width="500"/>
+<img src="historico_plano.png" width="500"/>
 ---
 
 ## 🛒 Simulador de Produtos e Lucro
