@@ -38,6 +38,7 @@ Uma pequena aplicação para simular a adição de produtos com custo e margem d
 
 - O total do carrinho de compras.
 <img src="add_prod_car.png" width="500"/>
+
 - O lucro total estimado.
 <img src="calc_prod.png" width="500"/>
 
