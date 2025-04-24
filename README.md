@@ -12,15 +12,19 @@ Bem-vindo(a) ao meu repositório! Aqui você encontrará alguns dos projetos que
 
 Esse projeto simula um sistema de cálculo de custo de ligações entre diferentes DDDs. O usuário pode:
 - Informar o DDD de origem e destino, além da duração da chamada.
+<img src="plano_inicio.png" width="500"/>
+<img src="plano_menu.png" width="500"/>
+
 - Ver o custo baseado em uma tabela fixa de tarifas.
+<img src="calculando_plano.png" width="500"/>
+
 - Consultar um histórico das últimas cinco ligações realizadas.
+<img src="historico_plano.png" width="500"/>
 
 🎯 Ideal para treinar lógica condicional e estrutura de repetição com menus em terminal.
 
-<img src="plano_inicio.png" width="500"/>
-<img src="plano_menu.png" width="500"/>
-<img src="calculando_plano.png" width="500"/>
-<img src="historico_plano.png" width="500"/>
+
+
 ---
 
 ## 🛒 Simulador de Produtos e Lucro
