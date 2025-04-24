@@ -33,8 +33,13 @@ Esse projeto simula um sistema de cálculo de custo de ligações entre diferent
 
 Uma pequena aplicação para simular a adição de produtos com custo e margem de lucro, e calcular:
 - O preço de venda com base na margem.
+<img src="menu_prod.png" width="500"/>
+<img src="add_prod.png" width="500"/>
+
 - O total do carrinho de compras.
+<img src="add_prod_car.png" width="500"/>
 - O lucro total estimado.
+<img src="calc_prod.png" width="500"/>
 
 Permite adicionar produtos e simular compras com foco no aprendizado de listas, funções e cálculos simples.
 
