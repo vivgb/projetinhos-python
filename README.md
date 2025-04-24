@@ -2,7 +2,7 @@
 
 # 📁 Meus Projetos em Python
 
-Bem-vindo(a) ao meu repositório! Aqui você encontrará alguns dos projetos que desenvolvi em Python, focando em lógica de programação, manipulação de dados e construção de menus interativos no terminal. Abaixo estão os detalhes de cada projeto.
+Bem-vindo(a) ao meu repositório! Aqui você encontrará alguns dos projetos que desenvolvi em Python, focando em lógica de programação, manipulação de dados e construção de menus interativos no terminal. Abaixo estão os detalhes de alguns projetos selecionados para ter uma explicação mais detalhada à respeito.
 
 ---
 
